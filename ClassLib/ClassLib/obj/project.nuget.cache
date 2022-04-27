@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YVjDUz0i/NXCga2tZP3nQD0/vYAbk0kFMr33Jw8n2Tsd/3FE4sX6yW88LkRc11x+Anox4Vv96PEOsZeZu5UK6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rudzs\\source\\repos\\kurs_BISO20211\\App1\\ClassLib\\ClassLib\\ClassLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rudzs\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
